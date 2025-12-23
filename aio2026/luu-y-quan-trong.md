@@ -7,4 +7,4 @@ icon: copyright
 
 ### Mọi bản quyền sở hữu trí tuệ thuộc về AI VIETNAM và các cá nhân liên quan trong tổ chức. Cấm lưu hành, sao chép, nhân bản, chia sẻ dưới mọi hình thức.
 
-( ĐỪNG LÀM VẬY MÀ PLS I'M GONNA COOK)
+(ĐỪNG LÀM VẬY MÀ PLS I'M GONNA COOK)
